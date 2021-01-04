@@ -1,0 +1,1 @@
+​	Este é um projeto simples do bootcamp da Digital Innovation one, para a inicialização dos desenvolvedores de software. A ideia desde projeto é recriar de forma "simples" (apenas o design da página, sem funcionalidades) a página inicial do Instagram , para que possamos entender melhor o funcionamento de HTML5 e CSS.
